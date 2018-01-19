@@ -1,0 +1,18 @@
+{
+  "name": "script-img-to-svg",
+  "version": "1.0.0",
+  "description": "Simple Script to convert images to SVG",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/aribs/img-to-svg"
+  },
+  "author": "Alejo Ribes",
+  "license": "ISC",
+  "dependencies": {
+    "potrace": "^2.1.1"
+  }
+}
